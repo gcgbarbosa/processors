@@ -44,7 +44,10 @@ libraryDependencies ++= {
     // trained models for local ML models used in both main and corenlp
     // these are stored in the CLU lab Artifactory not maven!
     "org.clulab"               % "processors-models"          % "0.1.9",
-    "org.clulab"               % "glove-840b-300d-10f"        % "1.0.0"
+    "org.clulab"               % "glove-840b-300d-10f"        % "1.0.0",
+
+    // makes it easier to read files
+    "com.github.pathikrit"    %% "better-files"               % "3.9.1"
   )
 }
 
