@@ -35,8 +35,8 @@ object NERData extends App {
     // get text
     val txt = f.lines.mkString("\n")
     // create doc + annotate
-    val doc = proc.mkDocument(txt)
     try {
+      val doc = proc.mkDocument(txt)
       proc.lemmatize(doc)
       // get annotation
       val anns = getNER(doc)
