@@ -32,10 +32,10 @@ object NERData extends App {
   val txtFiles = getTxtFiles("/data/nlp/corpora/pmc_openaccess/pmc_dec2019")
   //
   for (f <- txtFiles) {
-    // get text
-    val txt = f.lines.mkString("\n")
-    // create doc + annotate
     try {
+      // get text
+      val txt = f.lines.mkString("\n")
+      // create doc + annotate
       val doc = proc.mkDocument(txt)
       proc.lemmatize(doc)
       // get annotation
