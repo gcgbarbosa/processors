@@ -36,15 +36,19 @@ object NERData extends App {
     val txt = f.lines.mkString("\n")
     // create doc + annotate
     val doc = proc.mkDocument(txt)
-    proc.lemmatize(doc)
-    // get annotation
-    val anns = getNER(doc)
-    for ((entities, words) <- anns zip doc.sentences.map(_.words)  ) {
-      if (entities.filter(_ == "O").nonEmpty) {
-        // get BIO format
-        val annotations = words.zip(entities).map(s=>s._1 + " " + s._2).mkString("\n") + "\n"
-        outFile.appendLine(annotations)
+    try {
+      proc.lemmatize(doc)
+      // get annotation
+      val anns = getNER(doc)
+      for ((entities, words) <- anns zip doc.sentences.map(_.words)  ) {
+        if (entities.filter(_ == "O").nonEmpty) {
+          // get BIO format
+          val annotations = words.zip(entities).map(s=>s._1 + " " + s._2).mkString("\n") + "\n"
+          outFile.appendLine(annotations)
+        }
       }
+    } catch {
+      case e: Exception => println(s"could not process file ${txt}")
     }
   }
 }
