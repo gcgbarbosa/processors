@@ -46,7 +46,7 @@ abstract class LexiconNER(knownCaseInsensitives: Set[String], useLemmas: Boolean
 
 object LexiconNER {
   // These are configuration values that affect object creation.
-  val USE_FAST = true // Otherwise, slow will be used
+  val USE_FAST = false // Otherwise, slow will be used
   val USE_COMPACT = true // This applies to fast only
   val USE_DEBUG = false // This applies to the slow one only
   val OVERRIDE_ENTITY_VALIDATOR = false // true is only for testing!
