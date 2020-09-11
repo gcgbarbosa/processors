@@ -48,7 +48,7 @@ object NERData extends App {
         }
       }
     } catch {
-      case e: Exception => println(s"could not process file ${txt}")
+      case e: Exception => println(s"could not process file ${f}")
     }
   }
 }
