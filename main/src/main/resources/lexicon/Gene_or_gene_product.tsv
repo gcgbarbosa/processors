@@ -24,7 +24,6 @@
 ( S )-limonene 7-monooxygenase
 ( ppGpp ) ase
 -14 gene protein
-0+
 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase
 1,25-dihydroxyvitamin D ( 3 ) 24-hydroxylase , mitochondrial
 1,25-dihydroxyvitamin D3 receptor
@@ -1333,13 +1332,11 @@ A3GALT2
 A3GALT2P
 A3H
 A3b
-A4
 A4GALT
 A4GALT1
 A4GNT
 A6 related protein
 A6L
-A8
 AA-NAT
 AAA nuclear coregulator cancer associated protein
 AAA-TOB3
@@ -1550,7 +1547,6 @@ ABT1 associated protein
 ABTAP
 ABTB1
 ABTB2
-AC
 AC-III
 AC1
 AC19
@@ -2335,7 +2331,6 @@ AEN
 AEPLC
 AER61
 AES
-AF
 AF reductase
 AF-1
 AF10
@@ -2607,7 +2602,6 @@ AIbZIP
 AJAP1
 AJM1
 AJUBA
-AK
 AK 1
 AK 2
 AK 3
@@ -2917,7 +2911,6 @@ ALX3
 ALX4
 ALY
 ALYREF
-AM
 AM2
 AMAC
 AMAC-1
@@ -3314,7 +3307,6 @@ ANXA8
 ANXA8L1
 ANXA8L2
 ANXA9
-AO
 AOAH
 AOC1
 AOC2
@@ -3699,7 +3691,6 @@ AQPX1
 AQPX2
 AQPap
 AQR
-AR
 ARA
 ARA160
 ARA24
@@ -7275,12 +7266,10 @@ B4GALT6
 B4GALT7
 B4GAT1
 B4GalNAcT3
-B5
 B55
 B5R
 B5T overexpressed gene protein
 B6P
-B7
 B7 homolog 1
 B7 homolog 2
 B7 homolog 3
@@ -7747,7 +7736,6 @@ BEX3
 BEX4
 BEX5
 BEXL1
-BF
 BF-1
 BF-2
 BF1
@@ -7783,7 +7771,6 @@ BGnT-6
 BGnT-7
 BGnT-8
 BGnT-9
-BH
 BH-3-only member B
 BH-Pcdh
 BH3 interacting domain containing protein 3
@@ -7913,7 +7900,6 @@ BHMG1
 BHMT
 BHMT2
 BHPCDH
-BI
 BI-1
 BI1
 BICC1
@@ -8519,7 +8505,6 @@ BSTA
 BSX
 BSX1
 BSYN2
-BT
 BT2.1
 BT2.2
 BT3.2
@@ -10878,7 +10863,6 @@ C1qRp
 C1r like protein
 C1r like serine protease analog protein
 C1r-LP
-C2
 C2 calcium dependent domain containing protein 4A
 C2 calcium dependent domain containing protein 4B
 C2 calcium dependent domain containing protein 4C
@@ -11303,7 +11287,6 @@ C2orf89
 C2orf9
 C2orf91
 C2orf92
-C3
 C3 convertase activator
 C3/C5 convertase
 C32
@@ -11466,7 +11449,6 @@ C4orf6
 C4orf7
 C4orf8
 C4orf9
-C5
 C5AR
 C5AR1
 C5AR2
@@ -11538,7 +11520,6 @@ C5orf66
 C5orf67
 C5orf7
 C5orf8
-C6
 C6.1A
 C6.1B
 C66 SLIT like testicular protein
@@ -11741,7 +11722,6 @@ C6orf96
 C6orf97
 C6orf98
 C6orf99
-C7
 C7orf1
 C7orf10
 C7orf11
@@ -11814,7 +11794,6 @@ C7orf76
 C7orf77
 C7orf8
 C7orf9
-C8
 C8A
 C8B
 C8FW
@@ -11885,7 +11864,6 @@ C8orfK23
 C8orfK29
 C8orfK32
 C8orfK36
-C9
 C9orf10
 C9orf100
 C9orf101
@@ -14672,7 +14650,6 @@ CFR1
 CFTR
 CFTR associated ligand
 CFTR associated protein of 70 kDa
-CG
 CG-1 antigen
 CG-E
 CG-NAP
@@ -15243,7 +15220,6 @@ CITED2
 CITED4
 CIZ
 CIZ1
-CK
 CK II alpha
 CK II alpha '
 CK II alpha 3
@@ -16233,7 +16209,6 @@ COXI
 COXII
 COXIII
 COXVIAH
-CP
 CP-22
 CP-23
 CP-alpha-3
@@ -16395,7 +16370,6 @@ CPXM
 CPXM1
 CPXM2
 CPZ
-CR
 CR-3 alpha chain
 CR1
 CR16
@@ -16705,7 +16679,6 @@ CRYM-AS1
 CRYZ
 CRYZL1
 CReMM
-CS
 CS box containing WD protein
 CS-1
 CS-KMT
@@ -21217,12 +21190,10 @@ D4S90
 D4ST-1
 D4ST1
 D5D
-D6
 D6D
 D6S218E
 D6S229E
 D7SR
-D8
 D8-D7 sterol isomerase
 D8S2298E
 D9S57E
@@ -21368,7 +21339,6 @@ DAZH
 DAZL
 DAZL1
 DAZLA
-DB
 DB1
 DB83
 DBC-1
@@ -22074,7 +22044,6 @@ DEXI
 DEXRAS1
 DEZ
 DExH-box helicase 9
-DF
 DFCP1
 DFF-40
 DFF-45
@@ -22258,7 +22227,6 @@ DHX57
 DHX58
 DHX8
 DHX9
-DI
 DIA
 DIA1
 DIA1R
@@ -22380,7 +22348,6 @@ DKK2
 DKK3
 DKK4
 DKKL1
-DL
 DL-methylmalonyl-CoA racemase
 DL1R
 DLAD
@@ -22889,7 +22856,6 @@ DNase X
 DNase gamma
 DNase2 like acid DNase
 DNb-5
-DO
 DOB1
 DOBI
 DOC-1
@@ -22946,7 +22912,6 @@ DORA reverse strand protein
 DOT1 like protein
 DOT1L
 DOWN16
-DP
 DP ( W3 )
 DP ( W4 )
 DP-150
@@ -23181,7 +23146,6 @@ DRTF1-polypeptide 1
 DRX
 DRY12
 DRY6
-DS
 DS epimerase
 DS-1
 DS1
@@ -23255,7 +23219,6 @@ DSTYK
 DSU
 DSXL-2
 DSXL2
-DT
 DT-diaphorase
 DTD
 DTD1
@@ -24884,7 +24847,6 @@ E4F transcription factor 1
 E4F1
 E4TF1A
 E4TF1B
-E5
 E5-1
 E6 binding protein
 E6 targeted protein 1
@@ -24986,7 +24948,6 @@ EBV induced G protein coupled receptor 1
 EBV induced G protein coupled receptor 2
 EBV induced gene 3 protein
 EBV receptor
-EC
 EC-NOS
 EC-SOD
 EC45
@@ -25352,7 +25313,6 @@ EHOC-1
 EHOC1
 EHT
 EHZF
-EI
 EI24
 EID-1
 EID-1-like inhibitor of differentiation 2
@@ -25458,7 +25418,6 @@ EIG121L
 EIPR1
 EIT-6
 EIT6
-EK
 EK11
 EK12
 EK2
@@ -25479,7 +25438,6 @@ EKI1
 EKI2
 EKLF
 EKN1
-EL
 ELA
 ELA1
 ELA2
@@ -25769,7 +25727,6 @@ EOLA1
 EOLA2
 EOMES
 EOPA
-EP
 EP2
 EP300
 EP300 interacting inhibitor of differentiation 1
@@ -25931,7 +25888,6 @@ EPVE6AP
 EPX
 EPYC
 EQTN
-ER
 ER alpha-1 ,2-mannosidase
 ER associated DNAJ
 ER associated Hsp40 co-chaperone
@@ -26289,7 +26245,6 @@ ESYT1
 ESYT2
 ESYT3
 ESkine
-ET
 ET transporter
 ET-2
 ET-3
@@ -27570,27 +27525,21 @@ F13B
 F18
 F1A-alpha
 F1AA
-F2
 F25B3.3 kinase like protein
 F2R
 F2RL1
 F2RL2
 F2RL3
-F3
 F37 and esophageal cancer related gene coding leucine zipper motif
-F5
 F538
 F5F8D
 F6PK
-F7
-F8
 F8/G253 antigen
 F8A1 ;
 F8A2 ;
 F8A3
 F8C
 F8VWF
-F9
 FA2H
 FAA
 FAAH
@@ -28353,7 +28302,6 @@ FAXC
 FAXDC1
 FAXDC2
 FAZF
-FB
 FB19
 FB22
 FBF-1
@@ -28824,7 +28772,6 @@ FGIF
 FGL1
 FGL2
 FGR
-FH
 FH1/FH2 domain containing protein 1
 FH1/FH2 domain containing protein 3
 FH2 domain containing protein 1
@@ -29195,7 +29142,6 @@ FLYWCH family member 2
 FLYWCH-type zinc finger containing protein 1
 FLYWCH1
 FLYWCH2
-FM
 FMC1
 FMI
 FMI1
@@ -29240,7 +29186,6 @@ FMRP interacting protein 2
 FMS
 FMT
 FMT1
-FN
 FN1
 FN14
 FN3K
@@ -29423,7 +29368,6 @@ FPRL1
 FPRL2
 FPRP
 FPS
-FR
 FR-alpha
 FR-beta
 FR-delta
@@ -29535,7 +29479,6 @@ FRY
 FRYL
 FRZB
 FRZB1
-FS
 FSA
 FSAP
 FSBP
@@ -29668,7 +29611,6 @@ FXYD6
 FXYD6P3
 FXYD7
 FXYD8
-FY
 FYB
 FYB-120/130
 FYB1
@@ -30283,7 +30225,6 @@ Fovea associated SH3 domain binding protein
 Fox-1 homolog A
 Fox-1 homolog B
 Fox-1 homolog C
-Fp
 Fractalkine
 Fractalkine receptor
 Fracture callus protein 1
@@ -30409,7 +30350,6 @@ Fusin
 Fusion 1 protein
 Fussel-15
 Fussel-18
-Fx
 FxC1
 Fxn
 Fy glycoprotein
@@ -30738,7 +30678,6 @@ G0S24
 G0S3
 G0S7
 G0S8
-G1
 G1.16
 G1/S specific cyclin-D1
 G1/S specific cyclin-D2
@@ -30762,7 +30701,6 @@ G1P2
 G1P3
 G1PT
 G1SYN
-G2
 G2 accumulation protein
 G2/M phase specific E3 ubiquitin protein ligase
 G2/mitotic specific cyclin-B1
@@ -30780,7 +30718,6 @@ G2AN
 G2E3
 G2SYN
 G2ad
-G3
 G3A
 G3BP
 G3BP-1
@@ -30788,17 +30725,14 @@ G3BP-2
 G3BP1
 G3BP2
 G3PP
-G4
 G4-resolvase-1
 G4.5
 G4R1
 G4S
-G5
 G5A
 G5B
 G5C
 G5PR
-G6
 G6A
 G6B
 G6B-B
@@ -30827,7 +30761,6 @@ G9 sialidase
 G9A
 G9P
 G9a like protein 1
-GA
 GA binding protein alpha chain
 GA binding protein subunit beta-1
 GA binding protein subunit beta-2
@@ -31255,7 +31188,6 @@ GBPI-1
 GBTS1
 GBX1
 GBX2
-GC
 GC binding factor 2
 GC kinase
 GC rich promoter binding protein 1
@@ -31389,7 +31321,6 @@ GCUNC-45
 GCVT
 GCX-1
 GCX1
-GD
 GD1 alpha synthase
 GDA
 GDAP1
@@ -31610,7 +31541,6 @@ GGTLC3
 GGTase-I-alpha
 GGTase-I-beta
 GGTase-II-beta
-GH
 GH receptor
 GH releasing peptide receptor
 GH-N
@@ -31758,7 +31688,6 @@ GJD2
 GJD3
 GJD4
 GJE1
-GK
 GK 2
 GK 3
 GK 5
@@ -31784,7 +31713,6 @@ GKP3
 GKRP
 GKTA
 GKTB
-GL
 GL-R
 GL002
 GL003
@@ -32668,7 +32596,6 @@ GPx-7
 GPx-8
 GPx-GI
 GPx-P
-GR
 GR3
 GR6
 GRAF
@@ -32872,7 +32799,6 @@ GRXCR1 like protein
 GRXCR2
 GRY-RBP
 GRase
-GS
 GS homeobox 1
 GS homeobox 2
 GS1
@@ -33023,7 +32949,6 @@ GSTZ1
 GSTZ1-1
 GSX1
 GSX2
-GT
 GT197
 GT24
 GT650
@@ -33223,11 +33148,9 @@ GVQW motif containing protein 3
 GVQW1
 GVQW2
 GVQW3
-GW
 GW112
 GW182 autoantigen
 GWL
-GX
 GX sPLA2
 GXII sPLA2
 GXIIB
@@ -33621,7 +33544,6 @@ Gb1
 Gb2
 Gb3 synthase
 Gbeta5
-Gc
 Gc protein derived macrophage activating factor
 Gc-MAF
 Gc-globulin
@@ -34925,16 +34847,13 @@ H4FM
 H4FN
 H4FO
 H4R
-H6
 H6PD
 H7-AP2
 H731
 H7365
 H7AP1
-H9
 H91620p
 H963
-HA
 HA synthase 1
 HA synthase 2
 HA synthase 3
@@ -35169,7 +35088,6 @@ HBp17 related protein
 HBp17-RP
 HBxAg up-regulated gene 11 protein
 HBxAg up-regulated gene 4 protein
-HC
 HC-II
 HC11
 HC14
@@ -35296,7 +35214,6 @@ HCV p7-trans-regulated protein 3
 HCVADR
 HCVFTP2
 HCaRG
-HD
 HD domain containing protein 2
 HD domain containing protein 3
 HD protein
@@ -35756,7 +35673,6 @@ HEXO
 HEY1
 HEY2
 HEYL
-HF
 HF1
 HF2
 HFARP
@@ -35853,7 +35769,6 @@ HHMJG
 HHOLE
 HHZ168
 HHZ181
-HI
 HIAR
 HIAT1
 HIATL1
@@ -36125,7 +36040,6 @@ HKR3
 HKR4
 HKr18
 HKr19
-HL
 HL-1
 HL-2
 HL-60 PAD
@@ -36357,7 +36271,6 @@ HMWK
 HMX1
 HMX2
 HMX3
-HN
 HN1
 HN1 like protein
 HN10
@@ -36478,7 +36391,6 @@ HNRPR
 HNRPU
 HNRPUL1
 HNRPUL2
-HO
 HO-1
 HO-2
 HO1
@@ -36602,7 +36514,6 @@ HOXD8
 HOXD9
 HOYS6
 HOYS7
-HP
 HP protein
 HP-041
 HP-1
@@ -36688,7 +36599,6 @@ HPX-153
 HPX153
 HPX42B
 HQ0024c
-HR
 HR1
 HR21
 HR23A
@@ -37509,7 +37419,6 @@ HXBL
 HXC26
 HXCP1
 HXCP2
-HY
 HYA
 HYAL1
 HYAL2
@@ -39169,7 +39078,6 @@ ICRF
 ICSBP
 ICSBP1
 ICT1
-ID
 ID like protein inhibitor HLH 1R21
 ID1
 ID2
@@ -39219,7 +39127,6 @@ IER5L
 IES2 homolog
 IES6 homolog
 IEX1
-IF
 IF ( 1 )
 IF-2 ( Mt )
 IF-2Mt
@@ -39703,12 +39610,10 @@ IHPK1
 IHPK2
 IHPK3
 IHRP
-II
 IIGP5
 IIP45
 IIS
 IIp45
-IK
 IK factor
 IK1
 IKAP
@@ -40529,7 +40434,6 @@ IQSEC2
 IQSEC3
 IQUB
 IQWD1
-IR
 IR related receptor
 IR1
 IR10
@@ -40906,7 +40810,6 @@ IgSF6
 IgSF8
 IgSF9A
 IgSF9B
-Ii
 Ik3-1
 Ik3-2
 IkB kinase associated protein 1
@@ -42025,7 +41928,6 @@ Ion channel TACAN
 Ionized calcium binding adapter molecule 1
 Ionized calcium binding adapter molecule 2
 Ionizing radiation resistance conferring protein
-Ip
 Ipaf
 Iporin
 Ire1-alpha
@@ -42198,7 +42100,6 @@ JHDM3B
 JHDM3C
 JHDM3D
 JHY
-JI
 JIK
 JIP-1
 JIP-2
@@ -42208,7 +42109,6 @@ JIP1
 JIP2
 JIP3
 JJAZ1
-JK
 JK1
 JKAMP
 JKT41 binding protein
@@ -42243,7 +42143,6 @@ JMJD6
 JMJD7
 JMJD8
 JMY
-JN
 JNK activating kinase 1
 JNK activating kinase 2
 JNK and SAPK-inhibitory kinase
@@ -42410,7 +42309,6 @@ K-glutaminase
 K-glypican
 K-ras oncogene associated protein
 K-sam
-K1
 K10
 K12
 K13
@@ -42433,7 +42331,6 @@ K27
 K28
 K2P
 K2e
-K3
 K31
 K32
 K33A
@@ -42444,9 +42341,7 @@ K36
 K37
 K38
 K39
-K4
 K40
-K5
 K5-5
 K562 cell derived leucine-zipper-like protein 1
 K5B
@@ -42460,7 +42355,6 @@ K6IRS2
 K6IRS3
 K6IRS4
 K6L
-K7
 K71
 K72
 K73
@@ -42470,7 +42364,6 @@ K76
 K77
 K78
 K79
-K8
 K80
 K81
 K82
@@ -42479,7 +42372,6 @@ K84
 K85
 K86
 K88DSRBP
-K9
 KA1
 KA2
 KA21
@@ -45113,7 +45005,6 @@ KK-LC-1
 KKA3
 KKLC1
 KKLF
-KL
 KL-6
 KL04P
 KLB
@@ -45742,7 +45633,6 @@ KSRP
 KSST
 KST
 KST1
-KT
 KTEL motif containing protein 1
 KTELC1
 KTG
@@ -45761,7 +45651,6 @@ KUP
 KUZ
 KVLQT1
 KXD1
-KY
 KY interacting protein 1
 KYAT1
 KYAT3
@@ -46577,7 +46466,6 @@ L-type amino acid transporter 3
 L-type amino acid transporter 4
 L-tyrosine :2-oxoglutarate aminotransferase
 L-xylulose reductase
-L1
 L10
 L10mt
 L11
@@ -46604,7 +46492,6 @@ L1ORF1p
 L1RE1
 L1TD1
 L1mt
-L2
 L20mt
 L21mt
 L22mt
@@ -46618,7 +46505,6 @@ L28mt
 L2DTL
 L2HGDH
 L2mt
-L3
 L30mt
 L31mt
 L32mt
@@ -46639,7 +46525,6 @@ L3MBTL3
 L3MBTL4
 L3mbt like 4
 L3mt
-L4
 L40mt
 L41mt
 L42mt
@@ -46651,7 +46536,6 @@ L47mt
 L48mt
 L49mt
 L4mt
-L5
 L50mt
 L51mt
 L52mt
@@ -46660,11 +46544,7 @@ L54mt
 L55mt
 L56
 L5mt
-L6
-L7
-L8
 L8mt
-L9
 L9mt
 LAAO
 LAB
@@ -46949,7 +46829,6 @@ LCYTB
 LCoR
 LCoR like protein
 LCytb
-LD
 LD5-1
 LD65
 LD78 receptor
@@ -47007,7 +46886,6 @@ LDP-3
 LDP-4
 LDP3
 LDP4
-LE
 LEAP-1
 LEAP-2
 LEAP1
@@ -47120,7 +46998,6 @@ LEU5
 LEU7
 LEUTX
 LEXM
-LF
 LFA-1A
 LFA-2
 LFA-3 receptor
@@ -47669,7 +47546,6 @@ LOXL1
 LOXL2
 LOXL3
 LOXL4
-LP
 LP2254
 LP2537
 LP2561
@@ -48009,7 +47885,6 @@ LRTM2
 LRTOMT
 LRTP
 LRWD1
-LS
 LS-DNase
 LSAMP
 LSD
@@ -48123,7 +47998,6 @@ LTrpC4
 LTrpC5
 LTrpC6
 LTrpC7
-LU
 LUC7L
 LUC7L1
 LUC7L2
@@ -48150,7 +48024,6 @@ LUZP4
 LUZP5
 LUZP6
 LVRN
-LW
 LW blood group protein
 LW-1 ;
 LXA4 receptor
@@ -50204,7 +50077,6 @@ MAXER
 MAZ
 MAZI
 MAdCAM-1
-MB
 MB-1 membrane glycoprotein
 MB1
 MB21D1
@@ -50557,7 +50429,6 @@ MDU1
 MDU2
 MDU3
 MDia2
-ME
 ME1
 ME2
 ME20-M
@@ -51204,7 +51075,6 @@ MIZIP
 MJD
 MJD1
 MJDL
-MK
 MK-2
 MK-3
 MK-5
@@ -51277,7 +51147,6 @@ MKSR2
 MKSTYX
 MKX
 MKlp2
-ML
 ML-1
 ML-IAP
 ML1
@@ -51497,7 +51366,6 @@ MMSET
 MMTAG2
 MMTN
 MMUT
-MN
 MN sialoglycoprotein
 MN1
 MNAB
@@ -51765,7 +51633,6 @@ MPZ
 MPZL1
 MPZL2
 MPZL3
-MR
 MR-1
 MR-GEF
 MR1
@@ -52081,7 +51948,6 @@ MRTO4
 MRVI1
 MRVLDC1
 MRVLDC3
-MS
 MS-1 antigen
 MS-KIF18A
 MS2
@@ -52285,7 +52151,6 @@ MSX1
 MSX2
 MSY2
 MSY2 homolog
-MT
 MT-0
 MT-1
 MT-1A
@@ -52646,7 +52511,6 @@ MUT
 MUTED
 MUTM
 MUTYH
-MV
 MVB12A
 MVB12B
 MVD
@@ -55580,7 +55444,6 @@ NBRF1
 NBS
 NBS1
 NBTL1
-NC
 NC-NOS
 NC-PTPCOM1
 NC2-alpha
@@ -56904,7 +56767,6 @@ NOXO1
 NOXO2
 NOXP20
 NOXRED1
-NP
 NP-4
 NP-I
 NP-II
@@ -57226,7 +57088,6 @@ NRXN2
 NRXN3
 NRXN4
 NRip11
-NS
 NS1
 NS1 associated protein 1
 NS1 binding protein
@@ -57326,7 +57187,6 @@ NSUN5P2
 NSUN6
 NSUN7
 NSrp70
-NT
 NT-3
 NT-3 growth factor receptor
 NT-4
@@ -57425,7 +57285,6 @@ NTT4
 NTT5
 NTT73
 NTWIST
-NU
 NUA
 NUAK family SNF1 like kinase 1
 NUAK family SNF1 like kinase 2
@@ -58279,7 +58138,6 @@ New molecule including SH3
 New ras effector 1
 Newborn ovary HORMA protein
 Nexilin
-Ng
 Ng-CAM-related
 NgBR
 NgCAM related cell adhesion molecule
@@ -59039,7 +58897,6 @@ OAZ2
 OAZ3
 OAZI
 OAZIN
-OB
 OB binding protein 2
 OB receptor
 OB-BP1
@@ -59284,7 +59141,6 @@ OLR1
 OLRG-2
 OLRG2
 OLT-2
-OM
 OMA1
 OMA81H
 OMB5
@@ -59298,7 +59154,6 @@ OMP
 OMP25
 OMPHK1
 OMPHK2
-ON
 ONECUT1
 ONECUT2
 ONECUT3
@@ -60187,7 +60042,6 @@ OSTM1
 OSTN
 OSX
 OSZF
-OT
 OT-NPI
 OT-R
 OTAG-12
@@ -60285,7 +60139,6 @@ OVOL3
 OVOS1
 OVOS2
 OVTN
-OX
 OX-2 membrane glycoprotein
 OX-TES-1
 OX19
@@ -61672,7 +61525,6 @@ P/OKcl.14
 P/OKcl.15
 P/OKcl.19
 P/OKcl.4
-P1
 P1-A
 P1-CDC21
 P1-CDC46
@@ -61778,7 +61630,6 @@ P2Y7
 P2Y8
 P2Y9
 P2Z receptor
-P3
 P3 protein
 P300
 P300 and CBP associated factor
@@ -61817,7 +61668,6 @@ P4HA2
 P4HA3
 P4HB
 P4HTM
-P5
 P5'N-1
 P5-ATPase isoform 4
 P5-ATPase isoform 5
@@ -61855,7 +61705,6 @@ P67EIF2
 P67PHOX
 P67phox like factor
 P6c dehydrogenase
-P7
 P70R
 P70S6K1
 P70S6K2
@@ -61866,7 +61715,6 @@ P75 polymyositis-scleroderma overlap syndrome associated autoantigen
 P7BP2
 P85SPR
 P95
-PA
 PA-FABP
 PA-PLA1
 PA1
@@ -62407,7 +62255,6 @@ PAXIP1L
 PAXNEB
 PAXX
 PAZ Piwi domain protein
-PB
 PB-cadherin
 PB1
 PB39
@@ -62452,7 +62299,6 @@ PBX2
 PBX3
 PBX4
 PBXIP1
-PC
 PC I-NP
 PC II-NP
 PC cell derived growth factor
@@ -63024,7 +62870,6 @@ PDZRN2
 PDZRN3
 PDZRN4
 PDZRN4L
-PE
 PE-1
 PE-2
 PE1
@@ -63561,7 +63406,6 @@ PHYHD1
 PHYHIP
 PHYHIPL
 PHYKPL
-PI
 PI ( 4 ) P 5-kinase-like protein 1
 PI ( 5 ) P 4-kinase type II alpha
 PI ( 5 ) P 4-kinase type II beta
@@ -64017,7 +63861,6 @@ PKU-alpha
 PKU-beta
 PKX1
 PKY
-PL
 PL scramblase 1
 PL scramblase 2
 PL scramblase 3
@@ -64428,7 +64271,6 @@ PMX1
 PMX2
 PMX2A
 PMX2B
-PN
 PN-1
 PN-I
 PN-II
@@ -64741,7 +64583,6 @@ POU6F2
 POV-2
 POV1
 POX2
-PP
 PP-1A
 PP-1B
 PP-1G
@@ -65291,7 +65132,6 @@ PQLC2L
 PQLC3
 PQR protein
 PQWD
-PR
 PR domain containing protein 1
 PR domain containing protein 10
 PR domain containing protein 11
@@ -66757,7 +66597,6 @@ PZ32
 PZI
 PZP
 PZR
-Pa
 Pacer
 Pachytene checkpoint protein 2 homolog
 Paired amphipathic helix protein Sin3a
@@ -72236,14 +72075,12 @@ QA79 membrane protein
 QAPRTase
 QARS
 QARS1
-QC
 QDPR
 QIK
 QIL1
 QIP1
 QIP2
 QKI
-QM
 QN1
 QOH-1
 QP-C
@@ -72327,7 +72164,6 @@ R-spondin-3
 R-spondin-4
 R-transferase 1
 R-type and L-type pyruvate kinase
-R1
 R12
 R24L
 R2G1
@@ -72970,7 +72806,6 @@ RBTNL1
 RBTNL2
 RBX1
 RBX2
-RC
 RC-68
 RC-74
 RC-GAP72
@@ -73031,7 +72866,6 @@ RCSD domain containing protein 1
 RCSD1
 RCV1
 RCVRN
-RD
 RD114 and simian type D retrovirus receptor
 RD3
 RD3L
@@ -74053,7 +73887,6 @@ RITA1
 RIZ
 RJD6
 RJD7
-RK
 RKHD1
 RKHD2
 RKHD3
@@ -75209,7 +75042,6 @@ RWDD2B
 RWDD3
 RWDD4
 RWDD4A
-RX
 RXFP1
 RXFP2
 RXFP3
@@ -75665,7 +75497,6 @@ RasGAP
 RasGAP-activating-like protein 1
 RasGAP-activating-like protein 2
 Rat ventral prostate.1 protein homolog
-Rb
 Rb binding protein Che-1
 RbBP-30
 RbBP-35
@@ -76599,7 +76430,6 @@ Rpn13 homolog
 Rpp25 like protein
 Rsf-1
 Rsu-1
-Ru
 Ru2
 Rubicon
 Ruby-eye protein 2 homolog
@@ -77149,7 +76979,6 @@ SBP2
 SBP56
 SBSN
 SBSPON
-SC
 SC-35
 SC1
 SC2
@@ -77444,7 +77273,6 @@ SCYL1BP1
 SCYL2
 SCYL3
 SCYLP
-SD
 SD-PLA2
 SDA1 domain containing protein 1
 SDAD1
@@ -77579,7 +77407,6 @@ SDS
 SDS22
 SDS3
 SDSL
-SE
 SE2
 SEB
 SEB4
@@ -77987,7 +77814,6 @@ SEZ-6
 SEZ6
 SEZ6L
 SEZ6L2
-SF
 SF receptor
 SF-1
 SF-HT-activated gene 2 protein
@@ -78418,7 +78244,6 @@ SHROOM3
 SHROOM4
 SHTN1
 SHUJUN-1
-SI
 SI reductase
 SI-CLP
 SI1
@@ -78600,7 +78425,6 @@ SIX6
 SIX6OS1
 SIX9
 SIZN1
-SK
 SK 1
 SK 2
 SK1
@@ -79544,7 +79368,6 @@ SMYD2
 SMYD3
 SMYD4
 SMYD5
-SN
 SN1
 SN2
 SNAG1
@@ -79862,7 +79685,6 @@ SOX8
 SOX9
 SOXA
 SOXN
-SP
 SP-A
 SP-A1
 SP-A2
@@ -80364,7 +80186,6 @@ SQS
 SQSTM1
 SQV7 like protein
 SQV7L
-SR
 SR +89
 SR Ca ( 2+ )-ATPase 1
 SR Ca ( 2+ )-ATPase 2
@@ -80565,7 +80386,6 @@ SRrp40
 SRrp508
 SRrp53
 SRrp86
-SS
 SS-1-R
 SS-2-R
 SS-3-R
@@ -81512,7 +81332,6 @@ Scube and You
 Scurfin
 Sd ( a ) beta-1 ,4-GalNAc transferase
 SdpII
-Se
 SeP
 Sec synthase
 Sec1 family domain containing protein 1
@@ -84186,7 +84005,6 @@ T-lymphocyte surface antigen Ly-9
 T-plastin
 T-type amino acid transporter 1
 T/EBP
-T1
 T1-alpha
 T10
 T12
@@ -84196,7 +84014,6 @@ T1A
 T1R1
 T1R2
 T1R3
-T2
 T2-cadherin
 T200
 T245 protein
@@ -84248,11 +84065,8 @@ T3M-11-derived growth factor
 T3Z
 T4 binding globulin
 T54
-T6
 T6BP
 T7 like mitochondrial DNA helicase
-T9
-TA
 TA-KRP
 TA-LRRP
 TA-NFKBH
@@ -85265,7 +85079,6 @@ TEX53
 TEX54
 TEX55
 TEX9
-TF
 TF-1 cell apoptosis related protein 15
 TF-1 cell apoptosis related protein 19
 TF2A1
@@ -85369,7 +85182,6 @@ TFPI2
 TFPT
 TFR2
 TFRC
-TG
 TG ( C )
 TG ( E )
 TG ( K )
@@ -85491,7 +85303,6 @@ TGase-4
 TGase-5
 TGase-6
 TGase-7
-TH
 TH1
 TH1 like protein
 TH1L
@@ -85826,7 +85637,6 @@ TJP1
 TJP2
 TJP3
 TJP4
-TK
 TK 2
 TK1
 TK2
@@ -85917,7 +85727,6 @@ TLX1 divergent gene protein
 TLX1NB
 TLX2
 TLX3
-TM
 TM14
 TM2 domain containing protein 1
 TM2 domain containing protein 2
@@ -86443,7 +86252,6 @@ TMX1
 TMX2
 TMX3
 TMX4
-TN
 TN-C
 TN-N
 TN-R
@@ -86646,7 +86454,6 @@ TNXA
 TNXB
 TNXB1
 TNXB2
-TO
 TOAG-1
 TOAG1
 TOB
@@ -86732,7 +86539,6 @@ TOX
 TOX2
 TOX3
 TOX4
-TP
 TP alpha
 TP beta/gamma
 TP-1
@@ -86923,7 +86729,6 @@ TPX1
 TPX2
 TPx type VI
 TQ1
-TR
 TR alpha chain TRAV27 * 01J42 * 01C * 01
 TR alpha chain TRAV38-2DV8 * 01J31 * 01C * 01
 TR beta chain TRBV19 * 01J2S7 * 01C * 02
@@ -87603,7 +87408,6 @@ TRYP1
 TRYP2
 TRYX2
 TRYX3
-TS
 TS/MDEP
 TS11
 TSA
@@ -88664,7 +88468,6 @@ Tetratricopeptide repeat protein 9C
 TfR
 TfR1
 TfR2
-Tg
 ThTPase
 ThTr-1
 ThTr-2
@@ -92440,7 +92243,6 @@ UNR
 UNR interacting protein
 UNRIP
 UOG1
-UP
 UP-1
 UP1
 UP1a
@@ -93756,7 +93558,6 @@ V1r like receptor 5
 V28
 V2R
 V3r related gene protein
-V7
 V75
 VABP
 VAC-alpha
@@ -94064,7 +93865,6 @@ VMGLOM
 VMO1
 VMP
 VMP1
-VN
 VN1R1
 VN1R17P
 VN1R2
@@ -94078,7 +93878,6 @@ VNR19I1
 VNRA
 VNRL4
 VOPP1
-VP
 VP16 accessory protein
 VPAC1
 VPAC2
@@ -95093,7 +94892,6 @@ WRN
 WRNIP1
 WRP
 WRS
-WS
 WS basic-helix-loop-helix leucine zipper protein
 WS beta-transducin repeats protein
 WS-bHLH
@@ -95239,7 +95037,6 @@ X123
 X2 box repressor
 X25
 X5L
-XA
 XAB1
 XAB2
 XAF1
@@ -95268,7 +95065,6 @@ XAP4
 XAP5
 XAP8
 XAT2
-XB
 XB130
 XB51
 XBP-1
@@ -95292,7 +95088,6 @@ XDHA
 XE169
 XE7
 XEDAR
-XG
 XGALT1
 XGPT
 XGalT-1
@@ -95307,7 +95102,6 @@ XIP
 XIP1
 XIRP1
 XIRP2
-XK
 XK related protein 1
 XK related protein 2
 XK related protein 3
@@ -95381,7 +95175,6 @@ XPR1
 XPRF
 XPV
 XPVKONA
-XR
 XRCC1
 XRCC1 interacting protein 1
 XRCC2
@@ -95477,11 +95270,8 @@ Y-box transcription factor
 Y-box-binding protein 1
 Y-box-binding protein 2
 Y-box-binding protein 3
-Y1
-Y2
 Y2 receptor
 Y2B
-Y3
 Y5 receptor
 YA22
 YAE1
@@ -95838,7 +95628,6 @@ ZEP2
 ZEPPO1
 ZER1
 ZER6
-ZF
 ZF21
 ZF5
 ZF87
@@ -98764,10 +98553,8 @@ h3HAO
 h4EHP
 h4F5
 h4F5rel
-h6
 h6LIMo
 h76p
-h9
 hA6RP
 hABCB9
 hABH3
@@ -100387,7 +100174,6 @@ p59Hck
 p59ILK
 p59OASL
 p59scr
-p6
 p60
 p60 TIM
 p60 katanin
@@ -100442,7 +100228,6 @@ p76
 p76RBE
 p78
 p78 related protein
-p8
 p80
 p80 TNF-alpha receptor
 p80 katanin
@@ -100459,7 +100244,6 @@ p87 PI3K adapter protein
 p87/89
 p87PIKAP
 p8MTCP1
-p9
 p90
 p90 autoantigen
 p90-RSK 1
@@ -100830,7 +100614,6 @@ zinc finger protein 41 like protein
 19A
 1A1-3B
 1A6/DRIM
-1D
 2 ' ,3 '-cyclic nucleotide 3 ' phosphodiesterase
 2 '-5'-oligoadenylate synthetase 1
 2 '-5'-oligoadenylate synthetase 2
@@ -100968,13 +100751,11 @@ zinc finger protein 41 like protein
 7h3
 80K-L
 87U6
-8B
 8D6
 8HS20
 9-27
 90K
 9630046K23Rik
-9F
 9G8
 A-152E5.1
 A-2
@@ -101000,7 +100781,6 @@ A-kinase anchoring protein 8 like
 A-kinase anchoring protein 9
 A-kinase interacting protein 1
 A-myb
-A1
 A1-5
 A10
 A12.2
@@ -101010,7 +100790,6 @@ A1A
 A1AT
 A1B
 A1U
-A2
 A20
 A211C6.1
 A214N16.3
@@ -101028,15 +100807,12 @@ A3GALT1
 A3GALT2
 A3GALT2P
 A3a
-A4
 A4-LSB
 A43
 A49
-A6
 A6RP
 A6r
 A8-51
-AA
 AAAT
 AAC11
 AADAT
@@ -101548,7 +101324,6 @@ AMSH-FP
 AMY
 AMY2
 AMYLIN
-AN
 AN1
 ANA and BTG3
 ANC-2H01
@@ -101786,7 +101561,6 @@ ARVD
 ARVD1
 ARVD2
 ARVD5
-AS
 AS1DHRS4
 ASAT
 ASBABP1
@@ -102092,7 +101866,6 @@ ATS
 ATTHOG
 ATV
 ATXN8 opposite strand lncRNA
-AU
 AU RNA binding methylglutaconyl-CoA hydratase
 AUGA
 AUGB
@@ -102213,7 +101986,6 @@ B-MYB
 B-Raf proto-oncogene , serine/threonine kinase
 B-TFIID TATA-box binding protein associated factor 1
 B-box and SPRY domain containing
-B1
 B10
 B12
 B13
@@ -102230,12 +102002,10 @@ B18
 B19
 B1BKR
 B1F2
-B2
 B2-1
 B22
 B23
 B28
-B3
 B3-1
 B37
 B3GN-T1
@@ -102251,7 +102021,6 @@ B3Gn-T6
 B3T5
 B4-2
 B4GalNac-T3
-B5
 B52
 B55A
 B55D
@@ -102270,7 +102039,6 @@ B56delta
 B56epsilon
 B56gamma
 B61
-B7
 B7-1
 B7-2
 B7-H
@@ -102285,8 +102053,6 @@ B7S1
 B7h
 B7x
 B7y
-B8
-B9
 B9 domain containing 1
 B9 domain containing 2
 B94
@@ -102494,7 +102260,6 @@ BFLS
 BFNC
 BFR2
 BFZB
-BG
 BG1
 BGCAN
 BGGI
@@ -102541,7 +102306,6 @@ BIT
 BIgR
 BJ-TSA-9
 BJS
-BK
 BK-2
 BK125H2.1
 BK126B4.1
@@ -102729,7 +102493,6 @@ BRP17
 BRR2
 BRWD1 antisense RNA 2
 BRWD2
-BS
 BS-63
 BS-84
 BS4
@@ -103001,7 +102764,6 @@ C-type lectin like 1
 C/EBP-alpha
 C/EBP-beta
 C/EBP-delta
-C1
 C1-INH
 C10orf113
 C10orf115
@@ -103125,7 +102887,6 @@ C3b
 C3b-INA
 C3orf85
 C3orf86
-C4
 C40
 C42
 C48
@@ -103149,13 +102910,11 @@ C5A
 C5AR
 C5a
 C5b
-C6
 C6ST
 C6ST1
 C6ST2
 C6orf147
 C6orf212L
-C7
 C77032
 C82
 C8ORFK23
@@ -103423,7 +103182,6 @@ CCYC
 CCZ1 homolog , vacuolar protein trafficking and biogenesis associated
 CCZ1 homolog B , vacuolar protein trafficking and biogenesis associated
 CCZ1A
-CD
 CD-M6PR
 CD-RAP
 CD1
@@ -104053,7 +103811,6 @@ CES5A1
 CESD
 CESR
 CEZANNE
-CF
 CF transmembrane conductance regulator
 CF2
 CF6
@@ -104280,7 +104037,6 @@ CGL4
 CGLA
 CGLB
 CGRP receptor component
-CH
 CH17-360D5.1
 CH2H2-25
 CHAMP
@@ -104337,7 +104093,6 @@ CHSY-2
 CHSY2
 CHTF4
 CHTL1
-CI
 CI-10k
 CI-13KD-B
 CI-13kA
@@ -104701,7 +104456,6 @@ CNT-B2
 CNTNAP
 CNTNAP3A
 CNX
-CO
 CO-029
 CO-17A
 CO11A1
@@ -104869,7 +104623,6 @@ CPX-III
 CPX-IV
 CPX2
 CPXD
-CR
 CR-1
 CR-3
 CR2
@@ -105028,7 +104781,6 @@ CSU2
 CSX1
 CSX2
 CSX3
-CT
 CT-8
 CT1
 CT1.19
@@ -105504,7 +105256,6 @@ D-aminoacyl-tRNA deacylase 2
 D-box binding PAR bZIP transcription factor
 D-dopachrome tautomerase like
 D-glutamate cyclase
-D1
 D10S105E
 D10S64
 D10S65
@@ -105664,7 +105415,6 @@ DBM
 DBND
 DBP-5
 DBS
-DC
 DC-LAMP
 DC-STAMP domain containing 1
 DC-STAMP domain containing 2
@@ -105702,7 +105452,6 @@ DCR2
 DCR3
 DCSIGNR
 DCTN-22
-DD
 DD1
 DD132
 DD3
@@ -106887,7 +106636,6 @@ DLNB13
 DLNB14
 DLP3
 DLXIN-1
-DM
 DM1
 DM1 locus , WD repeat containing
 DM2
@@ -107008,7 +106756,6 @@ DORZ1
 DOS
 DOT1
 DOT1 like histone lysine methyltransferase
-DP
 DP1
 DP2
 DP3
@@ -107060,7 +106807,6 @@ DRP2
 DRRF
 DRS1
 DRY-6
-DS
 DS cell adhesion molecule
 DS cell adhesion molecule like 1
 DS-Epi1
@@ -107256,12 +107002,10 @@ DustyPK
 Dwfc
 E ( spl )
 E-LOX
-E1
 E16
 E1A binding protein p300
 E1A binding protein p400
 E1k
-E2
 E2 ( 17 ) KB1
 E2-2
 E2-230K
@@ -107279,12 +107023,10 @@ E2F transcription factor 5
 E2F transcription factor 6
 E2F transcription factor 7
 E2F transcription factor 8
-E3
 E3-16
 E3-3
 E3B1
 E3KARP
-E4
 E46L
 E47
 E4TF1-47
@@ -107640,7 +107382,6 @@ ENaCgamma
 EOAHA
 EOLA2
 EOS
-EP
 EP1
 EP2
 EP2C
@@ -107702,7 +107443,6 @@ EPS8 like 3
 EPSTS
 EPVH
 EPX-PEN
-ER
 ER degradation enhancing alpha-mannosidase like protein 1
 ER degradation enhancing alpha-mannosidase like protein 2
 ER degradation enhancing alpha-mannosidase like protein 3
@@ -107831,7 +107571,6 @@ EST90625
 EST90757
 ESX homeobox 1
 ESXR1
-ET
 ET1
 ET2
 ET3
@@ -108065,11 +107804,9 @@ F25965
 F2771
 F2R like thrombin or trypsin receptor 3
 F2R like trypsin receptor 1
-F3
 F52
 F5F8D
 F7175
-FA
 FA complementation group A
 FA complementation group B
 FA complementation group C
@@ -108304,7 +108041,6 @@ FDFACT1
 FDFACT2
 FDG
 FDX
-FE
 FE65L2
 FEB3
 FEB4
@@ -108377,7 +108113,6 @@ FHL1
 FHL1B
 FHM
 FHM2
-FI
 FIAF
 FIB
 FIC
@@ -112003,7 +111738,6 @@ FOXD6
 FOXL2 neighbor
 FOXO2
 FOXO3B
-FP
 FP17548
 FP588
 FPC
@@ -112016,7 +111750,6 @@ FPR2A
 FPRH2
 FPTA
 FPTB
-FR
 FR-G
 FRA
 FRA10A associated CGG repeat 1
@@ -112049,7 +111782,6 @@ FRZB-PEN
 FRalpha
 FRbeta
 FRgamma
-FS
 FSA-1
 FSG1
 FSGS1
@@ -112077,7 +111809,6 @@ FTO alpha-ketoglutarate dependent dioxygenase
 FTZ-F1
 FTZ-F1beta
 FTZ1
-FU
 FUBP
 FUC-TIV
 FUC-TV
@@ -112093,7 +111824,6 @@ FUS1
 FVIII
 FVSY9334
 FWP007
-FX
 FXC1
 FXIIIB
 FXN
@@ -112235,7 +111965,6 @@ FucU
 Fug1
 Fwd1
 Fwd2
-Fy
 G ( gamma ) 13
 G antigen 12B
 G antigen 12C
@@ -112400,7 +112129,6 @@ G18.1a
 G18.2
 G1L
 G1RZFP
-G2
 G2 and S-phase expressed 1
 G2/M-phase specific E3 ubiquitin protein ligase
 G20
@@ -112422,7 +112150,6 @@ G6b
 G6b-B
 G6c
 G6f
-G7
 G7a
 G7b
 G7c
@@ -112527,7 +112254,6 @@ GBD4
 GBF
 GBIF
 GBP
-GC
 GC rich promoter binding protein 1
 GC rich promoter binding protein 1 like 1
 GC vitamin D binding protein
@@ -112667,7 +112393,6 @@ GK002
 GK003
 GK1
 GKD
-GL
 GL004
 GL009
 GL010
@@ -112725,7 +112450,6 @@ GLYATL1B
 GLYATL1P3
 GLYT1
 GLYT2
-GM
 GM2 ganglioside activator
 GM632
 GMAN
@@ -112744,7 +112468,6 @@ GNL3B
 GNNP
 GNPDA
 GNT-1
-GO
 GODZ
 GOLG
 GOLGA2 pseudogene 5
@@ -112777,7 +112500,6 @@ GOS28
 GOS3
 GOSB
 GOT1
-GP
 GP-83
 GP110
 GP130
@@ -113007,7 +112729,6 @@ Gcd14p
 GdA
 GdF
 GdS
-Ge
 Ge-1
 Gef10
 Gem
@@ -113090,7 +112811,6 @@ H-YPT3
 H-l ( 3 ) mbt-l
 H-plk
 H-ray
-H1
 H1-0
 H1-1
 H1-10
@@ -113139,7 +112859,6 @@ H1s-2
 H1s-3
 H1s-4
 H1t
-H2
 H2-ALPHA
 H2-Bf
 H2-KE2
@@ -113274,7 +112993,6 @@ H2BU1
 H2BW1
 H2BW2
 H2P
-H3
 H3 clustered histone 1
 H3 clustered histone 10
 H3 clustered histone 11
@@ -113333,7 +113051,6 @@ H3C7
 H3C8
 H3F1K
 H3P
-H4
 H4 clustered histone 1
 H4 clustered histone 11
 H4 clustered histone 12
@@ -113383,7 +113100,6 @@ H4F5
 H4F5C
 H4F5rel
 H4P
-H5
 H6 family homeobox 1
 H6 family homeobox 2
 H6 family homeobox 3
@@ -113587,7 +113303,6 @@ HDPR1
 HDPY-30
 HDR
 HDYNIV
-HE
 HE1
 HE12
 HE2
@@ -113743,7 +113458,6 @@ HHT1
 HHT2
 HHYLTK
 HHZ150
-HI
 HI30
 HI95
 HIAR
@@ -113802,7 +113516,6 @@ HIVEP zinc finger 2
 HIVEP zinc finger 3
 HIWI3
 HJ1
-HK
 HK-1
 HK1
 HK2
@@ -113973,7 +113686,6 @@ HOX3
 HOX4
 HOXHB9
 HOZFP
-HP
 HP1
 HP1-ALPHA
 HP1-BETA
@@ -114086,7 +113798,6 @@ HRPT1
 HRR-1
 HRVP1
 HRas proto-oncogene , GTPase
-HS
 HS-40
 HS1
 HS1-BP3 , FLJ14249
@@ -114559,7 +114270,6 @@ Hb2E
 Hb6
 Hbeta58
 Hbp
-Hc
 HcGIP1
 Hcam3
 Hcc-1
@@ -115082,7 +114792,6 @@ IHG1
 IHG2
 IHO1
 IIIG9
-IK
 IK cytokine
 IK8
 IKAROS family zinc finger 1
@@ -115177,7 +114886,6 @@ IMPCHASE
 IMUP-1
 IMUP-2
 IMYPNO
-IN
 INAC
 INAG1
 INAM
@@ -115233,7 +114941,6 @@ INTS3 and NABP interacting protein
 INTS6L
 IOSCA
 IOTA
-IP
 IP-30
 IP1
 IP10-R
@@ -115391,7 +115098,6 @@ IsoT-3
 Isp2
 IspD
 Iwr1
-J1
 J6B7
 JADE-1
 JADE-2
@@ -115448,7 +115154,6 @@ JEDI
 JFC1
 JFP11
 JFP7
-JH
 JHDM1C
 JHDM1E
 JHDM1F
@@ -115643,7 +115348,6 @@ KE4
 KE6
 KELCHL
 KEN
-KF
 KF1
 KFABP
 KFGF
@@ -115758,7 +115462,6 @@ KMT8D
 KMT8E
 KMT8F
 KMT9
-KN
 KN motif and ankyrin repeat domains 1
 KN motif and ankyrin repeat domains 2
 KN motif and ankyrin repeat domains 3
@@ -115775,7 +115478,6 @@ KNS2B
 KNT
 KNTC1AP
 KNTC2AP
-KO
 KOG1
 KOR
 KOX
@@ -115829,7 +115531,6 @@ KRTAP9L1
 KRTAP9L2
 KRTAP9L3
 KRTE
-KS
 KS1
 KS1/4
 KSHIVB
@@ -115856,7 +115557,6 @@ Kcnma3
 Kdap
 Kec
 Kell metallo-endopeptidase ( Kell blood group )
-Ki
 KiSS-1 metastasis suppressor
 Kid
 Kin17 DNA and RNA binding protein
@@ -115953,7 +115653,6 @@ Kv9.1
 Kv9.2
 Kv9.3
 Kvb1.3
-Kx
 KxDL motif containing 1
 L-2-hydroxyglutarate dehydrogenase
 L-CAD
@@ -115962,7 +115661,6 @@ L-PGDS
 L-PLASTIN
 L-SOX5
 L-threonine dehydrogenase ( pseudogene )
-L1
 L1 cell adhesion molecule
 L10
 L10A
@@ -115979,7 +115677,6 @@ L18
 L18A
 L19
 L1CAM2
-L2
 L21
 L22
 L23
@@ -115990,7 +115687,6 @@ L27
 L27A
 L28
 L29
-L3
 L30
 L31
 L32
@@ -116007,16 +115703,10 @@ L3MBTL histone methyl-lysine binding protein 1
 L3MBTL histone methyl-lysine binding protein 2
 L3MBTL histone methyl-lysine binding protein 3
 L3MBTL histone methyl-lysine binding protein 4
-L4
 L40
 L41
-L5
-L6
 L6D
-L7
 L7A
-L8
-L9
 LAAT-1
 LAAT1
 LAB300
@@ -116130,7 +115820,6 @@ LDLCQ2
 LDOC1 regulator of NFKB signaling
 LDP
 LDPL
-LE
 LEC
 LECT
 LED
@@ -116209,7 +115898,6 @@ LHFPL tetraspan subfamily member 6
 LHFPL6
 LHON
 LHRHR
-LI
 LI1
 LI2
 LIAG
@@ -116481,7 +116169,6 @@ LOR
 LORD
 LORICRIN
 LORSDH
-LP
 LP-A3
 LP0
 LP1
@@ -116579,7 +116266,6 @@ LSR68
 LST-1
 LST003
 LST005
-LT
 LTAP
 LTB4R1
 LTBP-4L
@@ -116656,7 +116342,6 @@ LYT-10
 LYZL5B
 LZ16
 LZTS4
-La
 La ribonucleoprotein 1 , translational regulator
 La ribonucleoprotein 1B
 La ribonucleoprotein 4
@@ -116726,7 +116411,6 @@ M-RAs
 M-SemaK
 M-phase phosphoprotein 10
 M-phase specific PLK1 interacting protein
-M1
 M12.219
 M130
 M19
@@ -116735,10 +116419,8 @@ M40
 M6A
 M6B
 M6P-R
-M8
 M8-9
 M83
-M9
 M9.2
 M96
 MA5
@@ -118817,7 +118499,6 @@ MHP2
 MHS
 MHS1
 MHS5
-MI
 MI-ER1
 MIA SH3 domain ER export factor 2
 MIA SH3 domain ER export factor 3
@@ -118992,7 +118673,6 @@ MMS22 like , DNA repair protein
 MMS4L
 MMTRA1B
 MMUT
-MN
 MN1 proto-oncogene , transcriptional regulator
 MNAB
 MNAT1 component of CDK activating kinase
@@ -119056,7 +118736,6 @@ MOV-34
 MOV34
 MOV34-34KD
 MOXI
-MP
 MP1
 MP100
 MP17
@@ -119365,7 +119044,6 @@ MTTRF1
 MTVR1
 MTW1
 MTf
-MU
 MU-4
 MU-ARP2
 MU-PCDH
@@ -119674,7 +119352,6 @@ N61
 N6AMT
 N8.4
 N8L
-NA
 NA88A
 NAA80
 NAAGS-I
@@ -119792,7 +119469,6 @@ NAT8BP
 NAXD
 NAXE
 NAZC
-NB
 NB-2
 NB-3
 NBAS subunit of NRZ tethering complex
@@ -119903,7 +119579,6 @@ NDUFA4 mitochondrial complex associated
 NDUFA4 mitochondrial complex associated like 2
 NDUFAF8
 NDUFC2-KCTD14 readthrough
-NE
 NE-Dlg
 NE-NA
 NEB177D
@@ -120023,7 +119698,6 @@ NEUROD4
 NEUROD6
 NEX1M
 NEXMIF
-NF
 NF-ATC
 NF-ATP
 NF-E1
@@ -120319,7 +119993,6 @@ NOVA alternative splicing regulator 2
 NOX5A
 NOX5B
 NOXEF1
-NP
 NP-C2
 NP17.3
 NPA2
@@ -120389,7 +120062,6 @@ NRK2
 NRL-MAF
 NRPS998
 NRXN4
-NS
 NS-1
 NS1
 NS5ATP1
@@ -120687,7 +120359,6 @@ O-acyl-ADP-ribose deacylase 1
 O-sialoglycoprotein endopeptidase like 1
 O14
 O18
-O4
 OA2
 OA3
 OA48-18
@@ -120702,7 +120373,6 @@ OATP-J
 OATP1
 OATPY
 OAcGD3S
-OB
 OBGH2
 OBI1
 OBOE
@@ -120761,7 +120431,6 @@ ODG1
 ODOD
 ODT1
 ODZ3
-OF
 OFC10
 OFC5
 OFC6
@@ -120781,7 +120450,6 @@ OIASI
 OIP98
 OIT1
 OIT2
-OK
 OK/SW-cl.114
 OK/SW-cl.4
 OK/SW-cl.56
@@ -120911,7 +120579,6 @@ ORMDL sphingolipid biosynthesis regulator 3
 ORW
 ORW1
 ORW2
-OS
 OS-9
 OS9 endoplasmic reticulum lectin
 OSBPL1
@@ -121053,8 +120720,6 @@ P-REX1
 P-REX2
 P-dlg
 P-gp
-P0
-P1
 P1-450
 P1-Cdc21
 P101-PI3K
@@ -121082,7 +120747,6 @@ P18SRP
 P19
 P190A
 P1P373C6
-P2
 P21
 P24
 P24 ( DELTA )
@@ -121175,7 +120839,6 @@ P72
 P76
 P78
 P79PIF
-P8
 P80
 P84
 P85
@@ -121188,7 +120851,6 @@ P90
 P96PIF
 P97
 P9KA
-PA
 PA2.26
 PA200
 PA28-gamma
@@ -121588,7 +121250,6 @@ PGS
 PGSF1a
 PGSF1b
 PGY4
-PH
 PH domain and leucine rich repeat protein phosphatase 1
 PH domain and leucine rich repeat protein phosphatase 2
 PH domain containing endocytic trafficking adaptor 1
@@ -121783,7 +121444,6 @@ PLOSL
 PLPBP
 PLS
 PLSTIRE
-PM
 PM-Scl
 PM5
 PME
@@ -122623,7 +122283,6 @@ PYM homolog 1 , exon junction complex associated factor
 PYPAF8
 PYY1
 PYY4
-PZ
 PZF
 PZP alpha-2-macroglobulin like
 Pak-2
@@ -122677,7 +122336,6 @@ Pontin52
 Pop3
 Ppase
 Pptc
-Pr
 PrPp43p
 Prdc
 Prdxdd1
@@ -122703,7 +122361,6 @@ Prp5
 Prp6
 Prp8
 Prsp
-Ps
 Psc1
 Pse1
 PsiKLK1
@@ -122745,7 +122402,6 @@ R-spondin 2
 R-spondin 3
 R-spondin 4
 R00504
-R2
 R29124_1
 R33729_1
 R35
@@ -123020,7 +122676,6 @@ RASI-1
 RASIP2
 RASL13
 RAZ1
-RB
 RB associated KRAB zinc finger
 RB binding protein 4 , chromatin remodeling factor
 RB binding protein 5 , histone lysine methyltransferase complex subunit
@@ -123084,7 +122739,6 @@ RCP
 RCP9
 RCSD domain containing 1
 RCoR-1
-RD
 RDC-1
 RDC1
 RDC4
@@ -123178,7 +122832,6 @@ RFT1 homolog
 RFVT1
 RFVT2
 RFX family member 8, lacking RFX DNA binding domain
-RG
 RG083M05.2
 RGAG2
 RGDS
@@ -123191,7 +122844,6 @@ RGS9
 RGS9L
 RGSGAIP
 RGTR430
-RH
 RH-II and GuB
 RH-II/GU
 RH50A
@@ -123265,7 +122917,6 @@ RIZ1
 RIZ2
 RJD2
 RK5
-RL
 RL14
 RLC
 RLD-1
@@ -123287,7 +122938,6 @@ RMD3
 RMD5
 RMLP-R-I
 RMTL1
-RN
 RN49018
 RNA 2 ' ,3 '-cyclic phosphate and 5 '-OH ligase
 RNA binding fox-1 homolog 1
@@ -123421,7 +123071,6 @@ RNU2AF1
 RNU3IP1
 RNX
 RNaseK6
-RO
 ROAT1
 ROC22
 ROCO2
@@ -123444,7 +123093,6 @@ ROR3
 ROS proto-oncogene 1 , receptor tyrosine kinase
 ROS-GC1
 ROSBIN
-RP
 RP-A
 RP-S7
 RP1 axonemal microtubule associated
@@ -123669,7 +123317,6 @@ RRP41B
 RRP45
 RRP5
 RRT2
-RS
 RS1
 RSE1
 RSF-1
@@ -124009,7 +123656,6 @@ S-phase cyclin A associated protein in the ER
 S-phase kinase associated protein 1
 S-phase kinase associated protein 2
 S/G2NA
-S1
 S1 RNA binding domain 1
 S1-5
 S10
@@ -124057,7 +123703,6 @@ S18
 S182
 S19
 S1R
-S2
 S20
 S21
 S23
@@ -124069,23 +123714,15 @@ S27A
 S28
 S29
 S2V
-S3
 S3-12
 S3A
-S4
-S5
 S5A
 S5B
 S5D-SRCRB
-S6
 S6K
 S6KB
 S6Kbeta
-S7
-S8
 S863-7
-S9
-SA
 SA-1
 SA-2
 SA49P01
@@ -124282,7 +123919,6 @@ SCYL2
 SCYL3
 SCYL4
 SCZD9
-SD
 SDA1 domain containing 1
 SDAP
 SDCCAG-10
@@ -124325,7 +123961,6 @@ SDS-RS1
 SDS3 homolog , SIN3A corepressor complex component
 SDTY3
 SDYS
-SE
 SE20-4
 SE57-1
 SE70-2
@@ -124480,7 +124115,6 @@ SET like protein
 SET nuclear proto-oncogene
 SEZ-12
 SEZ17
-SF
 SF20
 SF2000
 SF2001
@@ -124634,7 +124268,6 @@ SHRM
 SHS
 SHTAP
 SHYC
-SI
 SIAL2
 SIALIN
 SIASD
@@ -125309,7 +124942,6 @@ SRp30a
 SRp30c
 SRp38
 SRrp37
-SS
 SS nuclear autoantigen 1
 SS18 like 2
 SS18 subunit of BAF chromatin remodeling complex
@@ -125528,7 +125160,6 @@ SVOP like
 SVP40
 SVP44
 SVUGP2
-SW
 SWA
 SWAN-1
 SWAP70L
@@ -125965,16 +125596,13 @@ T-box transcription factor 6
 T-box transcription factor T
 T-cap
 T-synthase
-T1
 T13
 T1A-2
-T2
 T245
 T2R19
 T2R20
 T2R23
 T2R24
-T3
 T4-A
 T49
 T4A1
@@ -126125,7 +125753,6 @@ TBX13
 TBX3-ISO
 TBXT
 TBZF
-TC
 TC-25
 TC-PTP
 TC4
@@ -126452,7 +126079,6 @@ TFR2
 TFRC2
 TFiiiC2-102
 TFiiiC2-63
-TG
 TGASE
 TGB
 TGC1
@@ -126846,7 +126472,6 @@ TPT
 TPTPS
 TPX
 TPX2 microtubule nucleation factor
-TR
 TR-AP
 TR1
 TR2
@@ -127152,7 +126777,6 @@ TRSLN
 TRUP
 TRX
 TReP-132
-TS
 TSA1902
 TSA2004
 TSA303
@@ -127253,7 +126877,6 @@ TWINL
 TWIST neighbor
 TWISTER
 TWNK
-TX
 TXAS
 TXBP151
 TXK tyrosine kinase
@@ -127502,7 +127125,6 @@ UGTrel4
 UHRF1 binding protein 1
 UHRF1 binding protein 1 like
 UHSKerB
-UI
 UK114
 UKp68
 UL16 binding protein 1
@@ -127699,7 +127321,6 @@ UbiA prenyltransferase domain containing 1
 Ubp-M
 Uch-L1
 Ufe1
-Ul
 Ulip6
 Ulp1
 Unc13h2
@@ -127731,10 +127352,8 @@ V1S3
 V1S4
 V1S5
 V1S8
-V2
 V35
 V7-3
-V8
 VA68
 VAB-9
 VAC14 component of PIKFYVE complex
@@ -127785,7 +127404,6 @@ VGLUT1
 VGLUT2
 VGLUT3
 VGR1
-VH
 VHL binding protein 1
 VHL like
 VHL1
@@ -127812,7 +127430,6 @@ VIT32
 VKCFD1
 VKCFD2
 VKGE9338
-VL
 VLA1
 VLA3a
 VLC1
@@ -127830,7 +127447,6 @@ VMA6
 VMA8
 VNUT
 VOPP1 WW domain binding protein
-VP
 VPAC1R
 VPAC2R
 VPH2
@@ -127993,7 +127609,6 @@ WBP1L2
 WBP2 N-terminal like
 WBS
 WC1
-WD
 WD and tetratricopeptide repeats 1
 WD repeat , sterile alpha motif and U-box domain containing 1
 WD repeat and FYVE domain containing 1
@@ -128118,10 +127733,8 @@ WNT inhibitory factor 1
 WNT-12
 WNT-4
 WPWS
-WR
 WRN RecQ like helicase
 WRN helicase interacting protein 1
-WS
 WS-3
 WS1
 WS2
@@ -128207,7 +127820,6 @@ X-ray repair cross complementing 5
 X-ray repair cross complementing 6
 X17
 X1k
-X3
 XAG-2
 XAP-2
 XAP-3
@@ -128273,7 +127885,6 @@ Y-box binding protein 1
 Y-box binding protein 2
 Y-box binding protein 3
 Y14
-Y4
 YAE1
 YAE1 maturation factor of ABCE1
 YAF1
@@ -128334,7 +127945,6 @@ YRS
 YRT
 YSH1
 YSK3
-YT
 YTH N6-methyladenosine RNA binding protein 1
 YTH N6-methyladenosine RNA binding protein 2
 YTH N6-methyladenosine RNA binding protein 3
@@ -128380,7 +127990,6 @@ Yip6b
 YjeF N-terminal domain containing 3
 Ymer
 Ynl022cL
-Yo
 Ypr118w
 Ysf3
 Yspl1
@@ -128780,10 +128389,6 @@ Zn-16
 ZnTL2
 Zpo1
 Zwint1
-a1
-a2
-a3
-a4
 aC1
 aKGR
 aP2
@@ -133239,7 +132844,6 @@ eIF3-zeta
 eL33
 eLOX3
 eMDCII
-eN
 eNT
 ePAB
 eRF3c
@@ -136877,7 +136481,6 @@ lipoyl ( octanoyl ) transferase 2
 lipoyltransferase 1
 listerin E3 ubiquitin protein ligase 1
 liver enriched antimicrobial peptide 2
-ln
 lnc-SCA7
 lnc003875
 lncMX1-215
@@ -139188,7 +138791,6 @@ p190ARhoGAP
 p190BRhoGAP
 p190RhoGAP
 p193
-p2
 p20
 p20-Arc
 p20-CGGBP
@@ -139231,7 +138833,6 @@ p27
 p27BBP
 p28
 p29
-p3
 p30
 p300
 p32
@@ -139254,7 +138855,6 @@ p38Beta
 p38delta
 p38gamma
 p39nck5ai
-p4
 p40
 p40-ARC
 p40.5
@@ -139277,7 +138877,6 @@ p48
 p49
 p49 and p100
 p493F12
-p5
 p50
 p50rhoGAP
 p52
@@ -139301,7 +138900,6 @@ p58
 p58 ( IPK )
 p58.1
 p58GTA
-p6
 p60MONOX
 p62
 p621
@@ -139316,14 +138914,12 @@ p66alpha
 p67
 p67phox
 p68
-p7
 p70 ( S6K )-alpha
 p70S6Kb
 p73H
 p75
 p75 and AIRM1
 p75NTR
-p8
 p82
 p84
 p85
