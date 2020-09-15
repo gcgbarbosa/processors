@@ -1,4 +1,3 @@
-# Created by org.clulab.processors.bionlp.ner.KBGenerator$ on 2020/07/29 22:30:26.
 ( 2-5 ' ) oligo ( A ) synthase 1
 ( 2-5 ' ) oligo ( A ) synthase 2
 ( 2-5 ' ) oligo ( A ) synthase 3
@@ -25,7 +24,6 @@
 ( S )-limonene 7-monooxygenase
 ( ppGpp ) ase
 -14 gene protein
-0
 0+
 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase
 1,25-dihydroxyvitamin D ( 3 ) 24-hydroxylase , mitochondrial
@@ -34597,7 +34595,6 @@ Gypsy retrotransposon integrase like protein 1
 Gz selective GTPase activating protein
 Gz-GAP
 Gz-alpha
-H
 H ( + )-myo-inositol cotransporter
 H ( + )-myo-inositol symporter
 H ( + )/Cl (-) exchange transporter 3
@@ -61639,7 +61636,6 @@ Oxysterols receptor LXR-beta
 Oxytocin receptor
 Oxytocin-neurophysin 1
 Oxytocinase
-P
 P ( i )-uptake stimulator
 P antigen family member 1
 P antigen family member 2
@@ -84024,7 +84020,6 @@ SytXIII
 SytXIV
 SytXV
 SytXVII
-T
 T beta-4
 T cell receptor delta constant
 T cell specific adapter protein
@@ -94597,7 +94592,6 @@ Vpu binding protein
 Vsm-RhoGEF
 Vti1-rp1
 Vti1-rp2
-W
 WAC
 WAF-1 and CIP1 stabilizing protein 39
 WAF1
@@ -95195,7 +95189,6 @@ Wnt-1-induced secreted protein
 Wolf-Hirschhorn syndrome candidate 1 protein
 Wolf-Hirschhorn syndrome candidate 2 protein
 Wolframin
-X
 X Kell blood group related , X linked
 X Kell blood group related 3
 X antigen family member 1
@@ -95476,7 +95469,6 @@ Xylosyltransferase I
 Xylosyltransferase II
 Xylulokinase
 Xylulose kinase
-Y
 Y+ L amino acid transporter 1
 Y+ L amino acid transporter 2
 Y+ LAT1
@@ -95630,7 +95622,6 @@ YjeF_N3
 Yolk sac permease like molecule 2
 Yolk sac permease like molecule 3
 YrdC domain containing protein , mitochondrial
-Z
 Z protein
 Z-DNA-binding protein 1
 Z-band alternatively spliced PDZ-motif protein
@@ -98255,7 +98246,6 @@ Zyxin-2
 [ histone H4 ]-N-methyl-L-lysine20 N-methyltransferase PRDM9
 [ histone H4 ]-lysine20 N-methyltransferase KMT5B
 [ histone H4 ]-lysine20 N-methyltransferase PRDM9
-a
 aFGF
 aFGF intracellular binding protein
 aPHC
@@ -100645,9 +100635,6 @@ ssDNA binding protein SEB4
 ssSPTa
 ssSPTb
 sudD homolog
-t ( 6 ) A synthase
-t ( 6 ) A37 threonylcarbamoyladenosine biosynthesis protein OSGEP
-t ( 6 ) A37 threonylcarbamoyladenosine biosynthesis protein OSGEPL1
 t-PA
 t-SNARE domain containing protein 1
 t-plasminogen activator
@@ -102211,7 +102198,6 @@ Attp
 AurA
 AurB
 AurC
-B
 B '-T
 B and T lymphocyte associated
 B cell acute lymphoblastic leukemia expressed
@@ -139123,7 +139109,6 @@ otopetrin 2
 otopetrin 3
 otoraplin
 otospiralin
-out at first homolog
 outer dense fiber of sperm tails 1
 outer dense fiber of sperm tails 2
 outer dense fiber of sperm tails 2 like
@@ -144629,7 +144614,6 @@ ventricular zone expressed PH domain containing 1
 versican
 vertebrae development associated
 vertnin
-very low density lipoprotein receptor
 vesicle amine transport 1
 vesicle amine transport 1 like
 vesicle associated membrane protein 1
